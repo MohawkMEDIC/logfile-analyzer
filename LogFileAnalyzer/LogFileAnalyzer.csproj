@@ -10,6 +10,8 @@
     <PackageProjectUrl>https://github.com/MohawkMEDIC/logfile-analyzer</PackageProjectUrl>
     <RepositoryUrl>https://github.com/MohawkMEDIC/logfile-analyzer</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
+    <PackageIconUrl>https://avatars3.githubusercontent.com/u/26844884?s=400&amp;u=0d772db7422a9cca45b670d9aaad2c7b3b6d7f89&amp;v=4</PackageIconUrl>
+    <PackageLicenseUrl>https://github.com/MohawkMEDIC/logfile-analyzer/blob/master/LICENSE.md</PackageLicenseUrl>
   </PropertyGroup>
 
 </Project>
