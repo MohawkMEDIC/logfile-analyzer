@@ -3,7 +3,7 @@ Represents a .NET Standard 2.0 log file analyzer
 
 # Installation
 ```cmd
-TODO
+Install-Package LogFileAnalyzer -Version 1.0.0
 ```
 
 # Configuration
