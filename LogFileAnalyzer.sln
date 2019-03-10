@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.438
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogFileAnalyzer", "LogFileAnalyzer\LogFileAnalyzer.csproj", "{4405B3D4-05C6-4E87-B067-0FAB90411B4E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogFileAnalyzer.Tests", "LogFileAnalyzer.Tests\LogFileAnalyzer.Tests.csproj", "{F86CA7FF-CB48-4F5E-BE37-B080CF8C5AD0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4405B3D4-05C6-4E87-B067-0FAB90411B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4405B3D4-05C6-4E87-B067-0FAB90411B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4405B3D4-05C6-4E87-B067-0FAB90411B4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F86CA7FF-CB48-4F5E-BE37-B080CF8C5AD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F86CA7FF-CB48-4F5E-BE37-B080CF8C5AD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F86CA7FF-CB48-4F5E-BE37-B080CF8C5AD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F86CA7FF-CB48-4F5E-BE37-B080CF8C5AD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

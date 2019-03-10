@@ -1,0 +1,4 @@
+2019-03-09 2:05:07 PM [@6] : Information eHealthIntegrationService.Core.Middleware.RequestLogMiddleware Content Type: 
+2019-03-09 2:05:07 PM [@6] : Error eHealthIntegrationService.Core.Middleware.RequestLogMiddleware HTTP Method: GET
+2019-03-09 2:05:07 PM [@6] : Debug eHealthIntegrationService.Core.Middleware.RequestLogMiddleware Host: localhost:12050
+2019-03-09 2:05:07 PM [@6] : Debug eHealthIntegrationService.Core.Middleware.RequestLogMiddleware HTTPS: True

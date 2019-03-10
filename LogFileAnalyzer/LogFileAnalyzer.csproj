@@ -2,6 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Version>1.0.0.0</Version>
+    <Authors>nityan</Authors>
+    <Company>Mohawk College of Applied Arts and Technology</Company>
+    <Description>Represents a log file analyzer to help find issues in logs files for running applications.</Description>
+    <Copyright>Copyright (c) 2019 Mohawk College of Applied Arts and Technology</Copyright>
+    <PackageProjectUrl>https://github.com/MohawkMEDIC/logfile-analyzer</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/MohawkMEDIC/logfile-analyzer</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
 </Project>
